@@ -1,1 +1,8 @@
-# Alura-Books
+
+.contato__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url("../img/Email.svg") no-repeat;
+    background: url("../img/Email.svg") no-repeat 5%;
+    padding-left: 2em;
+}
